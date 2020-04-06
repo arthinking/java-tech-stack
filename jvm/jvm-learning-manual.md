@@ -1,4 +1,4 @@
-# jvm速成手册
+# JVM系列文章
 
 为了让JVM相关知识点能够形成一个**体系**，**arthinking**将编写整理一系列的专题，以尽量以图片的方式描述相关知识点，并且最终把所有相关知识点串成了一张图。
 
@@ -8,10 +8,7 @@
 
 ---
 
-JVM系列文章
-
-### Java运行时数据区域是如何工作的
-
+### Java运行时数据区域
 - 相关文章：
   - [Java运行时数据区域是如何工作的](https://www.itzhai.com/jvm/how-java-runtime-data-area-works.html)
 - 关键词：`JVM内存布局` `对象访问定位`
@@ -45,7 +42,7 @@ JVM系列文章
 - 相关问题：
   - 1. Java对象进入堆之后，它的一生都经历了什么？
 
-### Class文件十六进制背后的秘密
+### Class文件
 - 相关文章：[Class文件十六进制背后的秘密](https://www.itzhai.com/jvm/the-secret-of-hexadecimal-class-file.html)
 - 关键词：`Class文件` `反汇编` `堆栈原理`
 - 相关问题：
@@ -54,7 +51,7 @@ JVM系列文章
   - 3. Class文件反汇编之后的格式里面分别有什么，尝试解读里面方法中的汇编指令
   - 4. 本地变量表和操作数栈是如何工作的
 
-### 一篇图文彻底弄懂Class文件是如何被加载进JVM的
+### Class文件加载
 - 相关文章：
   - [一篇图文彻底弄懂Class文件是如何被加载进JVM的](https://www.itzhai.com/jvm/how-class-file-load-into-jvm.html)
 - 关键词：`类加载器` `加载` `连接` `初始化`
@@ -64,7 +61,7 @@ JVM系列文章
   - 3. 类变量是存在堆中还是存在方法区中?
   - 4. 类构造器`<clinit>`方法什么时候执行？
 
-### 一篇图文彻底弄懂类加载器与双亲委派机制
+### 类加载器与双亲委派机制
 - 相关文章：
   - [一篇图文彻底弄懂类加载器与双亲委派机制](https://www.itzhai.com/jvm/what-is-classloader-and-what-is-parents-delegation-model.html)
 - 关键词：`类加载器` `双亲委派机制`
@@ -101,7 +98,7 @@ JVM系列文章
   - 4. 怎么保证动态分派的执行效率？
   - 5. 重写和重载的执行原理？
 
-### 10分钟教你如何hack掉Java编译器
+### javac编译器
 - 相关文章：
   - [10分钟教你如何hack掉Java编译器](https://www.itzhai.com/jvm/java-code-from-compilation-to-execution.html)
 - 关键词：`编译流程` `javac` `JIT` `注解处理器`
@@ -111,7 +108,7 @@ JVM系列文章
   - 3. 如何hack掉Java编译器
   - 4. 运行时DI和编译期DI的区别
 
-### 深入探索Java泛型的本质
+### Java泛型
 - 相关文章：
   - [深入探索Java泛型的本质](https://www.itzhai.com/jvm/exploring-the-nature-of-java-generics.html)
 - 关键词：`泛型`
@@ -121,7 +118,7 @@ JVM系列文章
   - 3. Java泛型与C++、Python中的有何区别
   - 4. 如何动态获取泛型类型
 
-### Java界的性能优化高手
+### JIT编译器
 - 相关文章：
   - [Java界的性能优化高手](https://www.itzhai.com/jvm/what-exactly-does-the-java-compiler-do.html)
   - 关键词：`编译器` `解释器` `JIT`

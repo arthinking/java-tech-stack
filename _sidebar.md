@@ -1,10 +1,12 @@
 - [返回主站](https://www.itzhai.com/)
 
 - JVM
-  - [JVM速成手册](jvm/jvm-learning-manual.md)
+  - [JVM学习资源](jvm/jvm-learning-resources)
+  - [JVM系列文章](jvm/jvm-learning-manual.md)
 - 数据结构与算法
   - Java集合框架
 - 并发编程
+  - [并发编程系列文章](cpj/java-concurrency-articles.md)
 - Java框架
   - Spring
   - SpringBoot
