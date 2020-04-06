@@ -12,8 +12,8 @@
   - Spring
   - SpringBoot
 - 数据库
-  - [MySQL学习资源](mysql-learning-resources.md)
-  - [MySQL系列文章](mysql-articles.md)
+  - [MySQL学习资源](database/mysql-learning-resources.md)
+  - [MySQL系列文章](database/mysql-articles.md)
 - 安全
 - 分布式
 - 微服务
