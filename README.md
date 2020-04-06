@@ -27,9 +27,11 @@
 ---
 
 - JVM
-  - [JVM学习资源](jvm/jvm-learning-resources)
+  - [JVM学习资源](jvm/jvm-learning-resources.md)
   - [JVM系列文章](jvm/jvm-learning-manual.md)
 - 数据结构与算法
+  - [数据结构与算法系列文章](data-structures-algorithms/articles.md)
+  - [数据结构与算法学习资源](data-structures-algorithms/learning-resources.md)
   - Java集合框架
 - 并发编程
   - [并发编程学习资源](cpj/cpj-learning-resources.md)
