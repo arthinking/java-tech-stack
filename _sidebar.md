@@ -6,12 +6,15 @@
 - 数据结构与算法
   - Java集合框架
 - 并发编程
+  - [并发编程学习资源](cpj/cpj-learning-resources.md)
   - [并发编程系列文章](cpj/java-concurrency-articles.md)
 - Java框架
   - Spring
   - SpringBoot
 - 数据库
   - MySQL
+    - [MySQL学习资源](mysql-learning-resources.md)
+    - [MySQL系列文章](mysql-articles.md)
 - 安全
 - 分布式
 - 微服务
