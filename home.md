@@ -6,6 +6,8 @@
 
 `Java技术栈`：java tech stack，记录相关Java技术，包含学习系列教程，常见面试题，编程思考题，同时会收录我的博客文章，以及业界优秀文章。
 
+!> 在线思维导图：  :racehorse: [Java tech stack](https://mubu.com/doc/dA46fUddPw) :racehorse:  
+
 ---
 
 ## 近期连载

@@ -24,6 +24,8 @@
 
 关于`Java技术栈`：可以在线访问：[java tech stack](https://www.itzhai.com/java-tech-stack/)
 
+!> 在线思维导图：  :racehorse: [Java tech stack](https://mubu.com/doc/dA46fUddPw)​ :racehorse:  
+
 ---
 
 - JVM
