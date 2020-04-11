@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://www.itzhai.com/java-tech-stack/">
-    <img alt="docsify" src="https://raw.githubusercontent.com/arthinking/java-tech-stack/master/assets/java_1.jpg" width = "100" height = "100" >
+    <img alt="java-tech-stack" src="https://raw.githubusercontent.com/arthinking/java-tech-stack/master/assets/java_1.jpg" width = "100" height = "100" >
   </a>
 </p>
 
@@ -15,7 +15,6 @@
 </p>
 
 <p align="center">持续更新中...</p>
-
 > `arthinking`根据心中的Java技术栈形象绘制了这个Java神兽作为本技术栈的logo，寓意为远古神兽，强大而平易近人接地气。
 
 `Java技术栈`：java tech stack，记录相关Java技术，包含学习系列教程，常见面试题，编程思考题，同时会收录我的博客文章，以及业界优秀文章。
@@ -38,22 +37,29 @@
 - 并发编程
   - [并发编程学习资源](cpj/cpj-learning-resources.md)
   - [并发编程系列文章](cpj/java-concurrency-articles.md)
-- Java框架
+- 框架
   - Spring
+    - [Spring学习资源](framework/spring/spring-learning-resources.md)
   - SpringBoot
 - 数据库
   - [MySQL学习资源](database/mysql-learning-resources.md)
   - [MySQL系列文章](database/mysql-articles.md)
 - 安全
 - 分布式
+  - [分布式系统学习资源](distributed/distributed-learning-resources.md)
 - 微服务
   - Spring Cloud
+    - [Spring Cloud学习资源](msa/spring-cloud/spring-cloud-learning-resources.md)
   - Dubbo
 - 架构设计
   - [架构选型](architecture/architecture-selection.md)
   - 场景设计
 - 缓存
 - 网络
+  - [网络学习资源](network/network-learning-resources.md)
+- 性能调优
+  - [性能调优学习资源](perf-tuning/perf-tuning-learning-resources.md)
+  - [性能调优系列文章](perf-tuning-articles.md)
 - Tomcat
 
 ---
