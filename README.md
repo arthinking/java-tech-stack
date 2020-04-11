@@ -23,7 +23,7 @@
 
 关于`Java技术栈`：可以在线访问：[java tech stack](https://www.itzhai.com/java-tech-stack/)
 
-> 在线思维导图：  :racehorse: [Java tech stack](https://mubu.com/doc/dA46fUddPw)​ :racehorse:  
+> 在线思维导图：  :racehorse: [Java tech stack](https://mubu.com/doc/dA46fUddPw)​ :racehorse:
 
 ---
 
@@ -59,7 +59,7 @@
   - [网络学习资源](network/network-learning-resources.md)
 - 性能调优
   - [性能调优学习资源](perf-tuning/perf-tuning-learning-resources.md)
-  - [性能调优系列文章](perf-tuning-articles.md)
+  - [性能调优系列文章](perf-tuning/perf-tuning-articles.md)
 - Tomcat
 
 ---
