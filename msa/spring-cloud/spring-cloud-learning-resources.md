@@ -1,8 +1,9 @@
-# Spring Cloud学习资源
+# Spring Cloud
 
 ## 在线资源
 
-* :office: ​[官方文档](https://spring.io/projects/spring-cloud)
+* :office: [Spring Cloud官方文档](https://spring.io/projects/spring-cloud)
+* :office: [zuul官方文档](https://github.com/Netflix/zuul/wiki/Getting-Started)
 
 ## 书籍
 
