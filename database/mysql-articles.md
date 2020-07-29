@@ -29,10 +29,18 @@
   - Redo Log在一个事务中是在什么时候写入的？binlog和Redo Log有什么区别？
 
 
+### 存储选型
+
+- 相关文章：
+  - [知不足而行. 数据库系统设计概述. 码哥字节.](https://mp.weixin.qq.com/s/HoSul-GjX6FmulY6ugdmgQ)
+- 关键词：`发展史` `对象访问定位`
+- 相关问题：
+  - 1. 
 
 ### 索引
 
 - 相关文章：
   - [深入理解 MySQL 索引底层原理](https://cloud.tencent.com/developer/article/1601047)
+  - [数据库索引的知识点，你所需要了解的都在这儿了](https://mp.weixin.qq.com/s/MMUnZ-IEyR3RM-wyYsW4Vg)
 - 关键词：`AVL树` `红黑树` `B树` `B+树`
 - 相关问题：

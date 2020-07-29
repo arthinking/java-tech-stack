@@ -27,6 +27,59 @@
 
 ---
 
+本仓库内容组织规范：
+
+```
+- java-tech-stach
+  |- 知识模块1
+    |- xxx-learning-resources.md  // 知识模块相关学习资源，寻找知识的源头
+    |- xxx-articles.md            // 高质量在线博客文章
+  |- 知识模块2
+    |- xxx-learning-resources.md  // 知识模块相关学习资源，寻找知识的源头
+    |- xxx-articles.md            // 高质量在线博客文章
+  _sidebar.md  // 侧边目录
+```
+其中
+
+* `xxx-learning-resources.md`为比较权威的学习资源，或者非常优秀的在线教学，在这里可以寻找知识的源头；
+* `xxx-articles.md`为在线有
+
+
+
+```
+### 在线资源
+
+* :tv: [Data Structures Easy to Advanced Course - Full Tutorial from a Google Engineer](https://www.youtube.com/watch?v=RBSGKlAvoiM)
+* :smiley_cat: [A collection of powerful data structures](https://github.com/williamfiset/data-structures)
+
+### 书籍
+
+* :book: 算法导论
+```
+
+
+
+```
+### Java运行时数据区域
+
+- 相关文章：
+  - [Java运行时数据区域是如何工作的](https://www.itzhai.com/jvm/how-java-runtime-data-area-works.html)
+- 关键词：`JVM内存布局` `对象访问定位`
+- 相关问题：
+  - 1. JVM内存布局是怎么划分的？
+  - 2. JVM里面各个区直接是怎么配合工作的？
+  - 3. 对象在内存中是如何布局的？
+  - 4. 什么是操作数栈和局部变量表？可否在class文件中展示下？
+  - 5. 运行时常量和字符串常量有什么区别？
+  - 6. 对象访问定位方式有哪些？各有什么优点
+
+### 
+```
+
+
+
+---
+
 - JVM
   - [JVM学习资源](jvm/jvm-learning-resources.md)
   - [JVM系列文章](jvm/jvm-learning-manual.md)
