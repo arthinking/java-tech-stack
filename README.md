@@ -42,25 +42,20 @@
 其中
 
 * `xxx-learning-resources.md`为比较权威的学习资源，或者非常优秀的在线教学，在这里可以寻找知识的源头；
-* `xxx-articles.md`为在线有
-
-
-
 ```
-### 在线资源
+## 在线资源
 
 * :tv: [Data Structures Easy to Advanced Course - Full Tutorial from a Google Engineer](https://www.youtube.com/watch?v=RBSGKlAvoiM)
 * :smiley_cat: [A collection of powerful data structures](https://github.com/williamfiset/data-structures)
 
-### 书籍
+## 书籍
 
 * :book: 算法导论
 ```
 
-
-
+* `xxx-articles.md`为在线比较有参考价值的文章
 ```
-### Java运行时数据区域
+## Java运行时数据区域
 
 - 相关文章：
   - [Java运行时数据区域是如何工作的](https://www.itzhai.com/jvm/how-java-runtime-data-area-works.html)
@@ -73,7 +68,7 @@
   - 5. 运行时常量和字符串常量有什么区别？
   - 6. 对象访问定位方式有哪些？各有什么优点
 
-### 
+## xxx
 ```
 
 

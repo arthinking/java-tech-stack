@@ -1,5 +1,4 @@
 - [返回主站](https://www.itzhai.com/)
-
 - JVM
   - [JVM学习资源](jvm/jvm-learning-resources.md)
   - [JVM系列文章](jvm/jvm-learning-manual.md)
@@ -10,6 +9,9 @@
 - 并发编程
   - [并发编程学习资源](cpj/cpj-learning-resources.md)
   - [并发编程系列文章](cpj/java-concurrency-articles.md)
+- 安全
+  - [安全系列文章](security/security-articles.md)
+  - [安全学习资源](security-learning-resources.md)
 - 框架
   - Spring
     - [Spring学习资源](framework/spring/spring-learning-resources.md)
