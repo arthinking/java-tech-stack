@@ -14,9 +14,9 @@
 
 技术博客：[IT宅](https://www.itzhai.com/)
 
-欢迎关注公众号一起学习交流：
+关注公众号及时获取最新内容：
 
-<div align=center><img src="https://www.itzhai.com/resources/images/itzhai_qrcode.jpeg" width = "100" height = "100" /></div>
+<div align=center><img src="https://www.itzhai.com/resources/images/itzhai_info.png" width = "100" height = "100" /></div>
 
 关于[arthinking](arthinking.md)
 

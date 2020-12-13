@@ -3,4 +3,4 @@
 
 欢迎关注公众号一起学习交流：
 
-<div align=center><img src="https://www.itzhai.com/resources/images/itzhai_qrcode.jpeg" width = "200" height = "200" /></div>
+<div align=center><img src="https://www.itzhai.com/resources/images/itzhai_info.png" width = "200" height = "200" /></div>
