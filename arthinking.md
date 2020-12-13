@@ -3,4 +3,4 @@
 
 欢迎关注公众号一起学习交流：
 
-<div align=center><img src="https://www.itzhai.com/resources/images/itzhai_info.png" width = "500" height = "500" /></div>
+<div align=center><img src="https://www.itzhai.com/resources/images/itzhai_info.png" width = "400" height = "400" /></div>

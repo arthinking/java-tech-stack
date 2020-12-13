@@ -65,7 +65,7 @@
 
 关注公众号及时获取最新内容：
 
-<div align=center><img src="https://www.itzhai.com/resources/images/itzhai_info.png" width = "500" height = "500" /></div>
+<div align=center><img src="https://www.itzhai.com/resources/images/itzhai_info.png" width = "400" height = "400" /></div>
 
 关于[arthinking](arthinking.md)
 
