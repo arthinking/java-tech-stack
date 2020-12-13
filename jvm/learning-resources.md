@@ -1,6 +1,6 @@
 # JVM学习资源
 
-### 官方资料
+### 在线资源
 
 * :page_facing_up: [The Java® Virtual Machine Specification Java SE 8 Edition](https://docs.oracle.com/javase/specs/jvms/se8/html/index.html)
 * :page_facing_up: [JVM指令集](https://docs.oracle.com/javase/specs/jvms/se8/html/jvms-6.html)

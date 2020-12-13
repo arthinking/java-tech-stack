@@ -1,11 +1,17 @@
-# MySQL系列文章
+# 数据库
+
+## 在线资源
+
+* :tv: [MySQL数据库核心底层原理只用看这个视频就足够了！](https://www.bilibili.com/video/BV13p4y1Q74y?from=search&seid=5052150486955967889)
 
 ### 底层架构
 
 - 关键词：`undo log` `redo log ` `binlog` `MVCC` `双写缓冲区` `buffer pool` `change buffer` `log buffer` `聚集索引` `辅助索引` `B+树` `页结构` `行结构`
-- [洞悉MySQL底层架构：游走在缓冲与磁盘之间](https://www.itzhai.com/database/insight-into-the-underlying-architecture-of-mysql-buffer-and-disk.html)
+- 相关文章：
+  - [洞悉MySQL底层架构：游走在缓冲与磁盘之间](https://www.itzhai.com/database/insight-into-the-underlying-architecture-of-mysql-buffer-and-disk.html)
+- 相关问题：
   - **整体架构：**InnoDB存储架构是怎样的
-  - **工作原理：**查询语句的底层执行流程是怎样的 
+  - **工作原理：**查询语句的底层执行流程是怎样的
   - **IO性能：**文件`IO操作`写磁盘有哪几种方式，有什么IO优化方式
   - **缓存：**`InnoDB缓存`(buffer pool, log buffer)的刷新方式有哪些
   - **缓存：**log buffer是在什么时候写入到磁盘的
@@ -28,6 +34,7 @@
   - 双写缓冲区有什么作用
   - Redo Log在一个事务中是在什么时候写入的？binlog和Redo Log有什么区别？
 
+<<<<<<< HEAD:database/mysql-articles.md
 
 ### 存储选型
 
@@ -37,10 +44,23 @@
 - 相关问题：
   - 1. 
 
+=======
+>>>>>>> 调整目录结构:database/learning-resources.md
 ### 索引
 
+- 关键词：`AVL树` `红黑树` `B树` `B+树`
 - 相关文章：
   - [深入理解 MySQL 索引底层原理](https://cloud.tencent.com/developer/article/1601047)
+<<<<<<< HEAD:database/mysql-articles.md
   - [数据库索引的知识点，你所需要了解的都在这儿了](https://mp.weixin.qq.com/s/MMUnZ-IEyR3RM-wyYsW4Vg)
 - 关键词：`AVL树` `红黑树` `B树` `B+树`
 - 相关问题：
+=======
+  - 相关问题：
+
+## 书籍
+
+* :book: 《高性能MySQL》
+* :book: 《MySQL技术内幕 : InnoDB存储引擎》
+* :book: 《数据库索引设计与优化》
+>>>>>>> 调整目录结构:database/learning-resources.md
