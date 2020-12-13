@@ -69,12 +69,5 @@
 
 ## 书籍
 
-<<<<<<< HEAD:cpj/java-concurrency-articles.md
-* 关键词：
-
-### 常见面试题
-
-=======
 * :book: 《Java并发编程实战》
 * :book: 《Java并发编程之美》
->>>>>>> 调整目录结构:cpj/learning-resources.md
