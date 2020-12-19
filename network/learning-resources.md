@@ -29,6 +29,7 @@
 - 相关文章：
   - [高性能网络编程游记开篇杂谈，持续更新中](https://www.itzhai.com/articles/the-beginning-of-high-performance-network-programming-travel-notes.html)
   - [网络编程必备知识：图解Socket核心内幕以及五大IO模型](https://www.itzhai.com/articles/necessary-knowledge-of-network-programming-graphic-socket-core-insider-and-five-io-models.html)
+  - [三分钟短文快速了解信号驱动式IO，似乎没那么完美](https://www.itzhai.com/articles/it-seems-not-so-perfect-signal-driven-io.html)
 - 相关问题：
 
 
