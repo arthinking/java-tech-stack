@@ -30,7 +30,8 @@
 
 - JVM
   - [JVM学习资源](jvm/learning-resources.md)
-  - [JVM系列文章](jvm/jvm-learning-manual.md)
+  - [JVM系列文章](jvm/learning-manual.md)
+  - [JVM速成手册](jvm/jvm.md)
 - 数据结构与算法
   - [数据结构与算法学习资源](data-structures-algorithms/learning-resources.md)
   - Java集合框架
@@ -59,6 +60,8 @@
   - [性能调优学习资源](perf-tuning/learning-resources.md)
 - Tomcat
 
+- 面试题
+  - [互联网大厂面试题](interview-questions/internet-big-factory-interview-questions.md)
 ---
 
 技术博客：[IT宅](https://www.itzhai.com/)
