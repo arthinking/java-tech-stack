@@ -31,6 +31,7 @@
 - 关键词：`Java内存模型` `JMM` `volatile` `synchronized`
 - 相关文章：
   - [如果有人给你撕逼Java内存模型，就把这些问题甩给他](https://www.itzhai.com/cpj/how-the-java-memory-model-works.html)
+  - [小姐姐都能看懂的Happens-before规则，你还愣住了？](https://mp.weixin.qq.com/s/b-kZfWY0-VO95wts0sAo0w)
 - 相关问题：
   - 什么是内存模型？为什么要有内存模型？
   - Java内存模型是怎样的？
