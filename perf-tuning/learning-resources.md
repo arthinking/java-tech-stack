@@ -12,6 +12,13 @@
   - [HTTP的长连接和短连接](https://www.cnblogs.com/cswuyg/p/3653263.html)
 - 相关问题：
 
+---
+
+- 关键词：`JVM`
+- 相关文章：
+  - [双12压测引出的线上Full GC排查](https://mp.weixin.qq.com/s/nVDIil0irP5bCaRApewXkQ)
+- 相关问题：
+
 ### 调优工具
 
 - 关键词：`JMeter`
