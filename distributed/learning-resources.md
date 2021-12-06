@@ -32,7 +32,13 @@
     - 如何保证消息顺序性？
     - Kafka如何实现消息传递保障？
     - Kafka有哪些关键的生产者和消费者参数？
+  
+### 分布式算法
 
+- 关键词：`Raft`
+- 相关文章：
+  - [用动图讲解分布式 Raft](https://mp.weixin.qq.com/s/US12ux7osqH_L0CtQyw-9A)
+- 相关问题：
 
 ## 书籍
 
